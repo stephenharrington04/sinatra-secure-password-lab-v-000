@@ -1,4 +1,4 @@
-class CreateUsers.rb < ActiveRecord::Migration
+class CreateUsers < ActiveRecord::Migration
   def change
   end
 end
